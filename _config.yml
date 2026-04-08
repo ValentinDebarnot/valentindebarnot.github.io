@@ -1,0 +1,50 @@
+title: "Valentin Debarnot"
+description: ""
+show_downloads: false
+google_analytics:
+
+include:
+  - "_pages"
+
+url: "https://valentindebarnot.github.io"
+baseurl: ""
+
+navbar_fixed: true
+theme: jekyll-theme-cayman
+
+github:
+  repository_url: "https://github.com/ValentinDebarnot/valentindebarnot.github.io"
+  is_project_page: true
+
+arxiv:
+  display: false
+  link: "https://arxiv.org/abs/2501.15246"
+
+paper:
+  display: false
+  name: "Nature Methods"
+  link: "https://arxiv.org/abs/2501.15246"
+
+website:
+  display: true
+  link: "https://sites.google.com/view/debarnot/"
+  name: "Valentin Debarnot"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll/scholar
+
+scholar:
+  style: apa
+  locale: en
+  sort_by:
+    - year
+    - month
+  order:
+    - descending
+    - descending
+  group_by: year
+  group_order: descending
+  source: /_bibliography/
+  bibliography: Mybiblio.bib
+  bibliography_template: bib
