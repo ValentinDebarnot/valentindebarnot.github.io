@@ -1,0 +1,19 @@
+---
+---
+<div class="pub-entry">
+  <div class="pub-title">{{ entry.title }}</div>
+
+  <div class="pub-authors">
+    {{ entry.author }}
+  </div>
+
+  <div class="pub-venue">
+    <em>{{ entry.journal }}{% if entry.year %}, {{ entry.year }}{% endif %}</em>
+  </div>
+
+  <div class="pub-buttons">
+    {% if entry.pdf %}
+      <a href="{{ entry.pdf | relative_url }}" class="pub-btn" target="_blank">PDF</a>
+    {% endif %}
+  </div>
+</div>
