@@ -7,12 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-
-### PhD scholarships and postdoctoral positions
-We are looking for motivated students and postdoctoral researchers interested in image processing, with projects ranging from theoretical developments to highly applied problems.
-
-Our research focuses on improving image reconstruction pipelines through algorithms that remain analyzable in simplified settings while being effective in practice. Key application domains include cryo-electron tomography (with impact in structural biology and medicine) and medical imaging.
-
 * * * 
 ### Master Internships
 
