@@ -26,6 +26,13 @@ If you are interested in a Master’s internship (M1/M2), please send an email t
 </iframe>
 
 
+<iframe
+  src="{{ '/assets/others/20250715_M2-Internship-proposal-aisycryo.pdf' | relative_url }}"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>
+
 
 To learn more about our research, you can consult our [recent papers](./Publications.md) or [existing projects](./Projects.md). 
 
