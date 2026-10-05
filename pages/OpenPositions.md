@@ -9,8 +9,23 @@ nav_order: 3
 
 * * * 
 ### Master Internships
-
 If you are interested in a Master’s internship (M1/M2), please send an email to valentin.debarnot@creatis.insa-lyon.fr, including your CV and a transcript of grades. 
+
+<iframe
+  src="{{ '/assets/others/Stage_theory.pdf' | relative_url }}"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>
+
+<iframe
+  src="{{ '/assets/others/Stage_ML_IP.pdf' | relative_url }}"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>
+
+
 
 To learn more about our research, you can consult our [recent papers](./Publications.md) or [existing projects](./Projects.md). 
 
