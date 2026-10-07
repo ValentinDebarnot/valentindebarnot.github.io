@@ -25,6 +25,13 @@ If you are interested in a Master’s internship (M1/M2), please send an email t
   style="border: none;">
 </iframe>
 
+<iframe
+  src="{{ '/assets/others/2026_ANRLowDose.pdf' | relative_url }}"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>
+
 
 <iframe
   src="{{ '/assets/others/20250715_M2-Internship-proposal-aisycryo.pdf' | relative_url }}"
